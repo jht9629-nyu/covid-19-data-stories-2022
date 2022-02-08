@@ -16,17 +16,13 @@ This course will use the open source [The COVID-19 Impact Project](https://covid
 
 ## Course Structure
 Students will participate in lectures, research, discussion groups, hands on design and build
-activities and group or individual projects. Students will be expected to dedicate at least 3 hours
-of work on weekly assignments in between sessions.
+activities and group or individual projects. Students will be expected to dedicate at least 3 hours of work on weekly assignments in between sessions.
 
-**[Week 1:](Week1.md)** Lecture, discussion groups. Assignment 1 : Select course project and work on the first
-iteration to present in the next class.
+**[Week 1:](Week1.md)** Lecture, discussion groups. Assignment 1 : Select course project and work on the first iteration to present in the next class.
 
-**Week 2:**  Students present the first iteration of the course project for in-class discussion and
-feedback. Assignment 2 : Revise and build on course project based on feedback
+**[Week 2:](Week2.md)**  Students present the first iteration of the course project for in-class discussion and feedback. Assignment 2 : Revise and build on course project based on feedback
 
-**Week 3:** Students present the second iteration of the class project. All assignments must include
-documentation.
+**[Week 3:](Week3.md)** Students present the second iteration of the class project. All assignments must include documentation.
 
 *Students are invited to continue their participation in the project after the course ends. We will be seeking funding via grants to implement viable concepts.*
 
