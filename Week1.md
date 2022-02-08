@@ -10,10 +10,24 @@
 * [Our World in Data](https://ourworldindata.org/coronavirus)
 
 ### DATA FLOW FROM OPEN SORCE REPOS
+Data from JHU Repo
+* [Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE](https://github.com/CSSEGISandData/COVID-19) 
+* [JHU CSSE Daily Report Sample](https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_daily_reports/01-10-2022.csv)
+* [Program](https://github.com/EP-Visual-Design/COVID-19-Impact-Project/blob/master/parse/aparse.js) developed by John Henry Thompson to parse JHU data.
+* The data parsed into a [json file](https://github.com/EP-Visual-Design/COVID-19-parsed-data/blob/main/c_data/world/c_meta.json)
+
+Data from NYC Department of Health and Mental Hygiene
+* NYC DOHMH [Github](https://github.com/nychealth/coronavirus-data)
+* NYC Data by [zip code](https://github.com/nychealth/coronavirus-data/blob/master/totals/data-by-modzcta.csv)
+* [Program](https://github.com/EP-Visual-Design/COVID-19-Impact-Project/blob/master/parse/parse_nyc.js) developed by John Henry Thompson to parse NYC data
+* Parsed data as human readable files
+  * [Data organized by date across all zip codes](https://github.com/EP-Visual-Design/COVID-19-parsed-data/blob/main/c_data/nyc/c_subs/Brooklyn/c_days/2020-05-18.json)
+  * [json for one zipcode across the time series](https://github.com/EP-Visual-Design/COVID-19-parsed-data/blob/main/c_data/nyc/c_subs/Brooklyn/c_series/11201.json)
+
 
 ### DATA VISUALIZATION PIONEERS
 #### Florence Nightingale
-Florence Nightingale, aka the Lady with the Lamp, best known for her nursing work during the Crimean war. She collected and analysed data on the deaths of soldiers in Crimean war. The data showed that more soldiers were dying from infectious diseases due to unsanitary conditions and poor ventilation than from wounds of war and other causes. Florence Nightingale instituted reforms to mitigate these outcomes. She created visualizations to communicate her findings and the results of her interventions to the general public. 
+Florence Nightingale, aka the "Lady with the Lamp", best known for her nursing work during the Crimean war. She was a nurse and a statistician who collected and analysed data on the deaths of soldiers in Crimean war. The data showed that more soldiers were dying from infectious diseases due to unsanitary conditions and poor ventilation than from wounds of war and other causes. Florence Nightingale instituted reforms to mitigate these outcomes. She created visualizations to communicate her findings and the results of her interventions to the general public. 
 
 * https://www.sciencemuseum.org.uk/objects-and-stories/florence-nightingale-pioneer-statistician
 * https://www.theguardian.com/news/datablog/2010/aug/13/florence-nightingale-graphics
@@ -32,7 +46,7 @@ Florence Nightingale, aka the Lady with the Lamp, best known for her nursing wor
 * https://visionscarto.net/web-du-bois-color-line
 * https://medium.com/nightingale/exploring-the-craft-and-design-of-w-e-b-du-bois-data-visualizations-part-3-b110d034fd36
 
-African American Photographs Assembled BY W. E. B. DuBois for 1900 Paris Exposition
+African American Photographs Assembled By W. E. B. DuBois for 1900 Paris Exposition
 * http://metadeepmix.com/webdb/webdb/
 * http://www.loc.gov/pictures/collection/anedub/item/00651763/
 
