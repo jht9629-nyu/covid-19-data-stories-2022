@@ -19,7 +19,7 @@ Students will participate in lectures, research, discussion groups, hands on des
 activities and group or individual projects. Students will be expected to dedicate at least 3 hours
 of work on weekly assignments in between sessions.
 
-**Week 1:** Lecture, discussion groups. Assignment 1 : Select course project and work on the first
+**[Week 1:](Week1.md)** Lecture, discussion groups. Assignment 1 : Select course project and work on the first
 iteration to present in the next class.
 
 **Week 2:**  Students present the first iteration of the course project for in-class discussion and
