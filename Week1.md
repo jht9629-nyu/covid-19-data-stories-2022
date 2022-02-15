@@ -1,5 +1,44 @@
 # WEEK 1
+## Homework
+#### INSTRUCTIONS
+Reflect on Week 1 class and the skills you have or would like to enhance. 
+Develop and document an initial concept for your FINAL PROJECT. 
+
+Your final project  should 
+* Contribute to the COVID-19 Impact Project OR 
+* Be centered on pandemic data around something culturally relevant to you OR
+* Be related to  populations that experienced disparate effects due to the pandemic
+
+#### SUBMITTING YOUR WORK
+Work must be submitted by midnight on the night before class. Submit to your folder on
+* github
+* google drive
+#### DUE WEEK 2: 
+Project ideas with documentation must be presented in class for feedback on Week 2.
+#### FINAL PROJECT IDEAS
+#### Researcher/Writer/Artist
+* Researcher: Curate data vis and stories on marginalized demographic group; collect examples of data vis that can inspire our work.
+* Writer: Collect and present at least one personal/community original pandemic story. Does the story connect to the data? How? Document in the medium of your choice (audio/visual/performance etc…)
+* Artist: Express a pandemic narrative in the medium of your choice.
+#### Coder
+* Coder: Develop data vis sketch/prototype/idea using tools of your choice. Present a working model or a model with well documented issues
+#### Demographics to explore
+* Essential workers
+* Race/ethnicity and COVID-19
+* Poverty and COVID-19
+* Culturally relevant/localized community 
+#### Memorials, grief and mourning
+Develop and document original ideas for memorials, grief and mourning  at any scale in an ongoing pandemic.  
+
+
+
+
 ## Links and Resources
+### LINKS FOR CLASSROOM ACTIVITIES
+#### Activity 3
+* https://editor.p5js.org/jht1493/sketches/bxiT7lMbt
+loadJSON c19 series brooklyn
+
 ### COVID DASHBOARDS
 * https://epvisual.com/COVID-19-Impact/Dashboard/a0/:
 
@@ -23,7 +62,6 @@ Data from NYC Department of Health and Mental Hygiene
 * Parsed data as human readable files
   * [Data organized by date across all zip codes](https://github.com/EP-Visual-Design/COVID-19-parsed-data/blob/main/c_data/nyc/c_subs/Brooklyn/c_days/2020-05-18.json)
   * [json for one zipcode across the time series](https://github.com/EP-Visual-Design/COVID-19-parsed-data/blob/main/c_data/nyc/c_subs/Brooklyn/c_series/11201.json)
-
 
 ### DATA VISUALIZATION PIONEERS
 #### Florence Nightingale
@@ -49,6 +87,34 @@ Florence Nightingale, aka the "Lady with the Lamp", best known for her nursing w
 African American Photographs Assembled By W. E. B. DuBois for 1900 Paris Exposition
 * http://metadeepmix.com/webdb/webdb/
 * http://www.loc.gov/pictures/collection/anedub/item/00651763/
+
+### HUMANIZING DATA
+https://covid19impactproject.com/2022/01/15/curating-covid-19-memorials/
+
+### DATA LITERACY AND DATA VIZUALIZATION TOOLS
+* The Covid Tracking Project https://covidtracking.com/ 
+* https://www.tableau.com/academic/students Download and install Tableau. Get one year license for use (renewable)
+* p5*js [p5*js.org](https://p5js.org/)
+
+### DATA VISUALIZATION EXAMPLES
+COVID-19 
+* https://covid19impactproject.com/covid-19-memorial-ticker/
+
+* https://www.nationalgeographic.com/culture/article/epic-covid-19-memorial-national-mall-one-stunning-photo
+
+* https://covid19impactproject.com/2022/01/15/curating-covid-19-memorials/
+
+* https://covid19impactproject.com/extracting-stories-from-data/spring-2021-student-project-samples/ (Focus Tito)
+
+COVID & wealth
+* https://www.analyticsvidhya.com/blog/2021/01/build-your-data-visualization-intuition-did-the-rich-get-richer-during-the-pandemic/
+
+WEALTH AND POVERTY
+* https://mkorostoff.github.io/1-pixel-wealth/
+* https://www.gapminder.org/dollar-street
+
+
+
 
 
 
