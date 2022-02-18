@@ -46,3 +46,5 @@ The Evolution of COVID-19 - ITP Student Project
 * http://www.covid19evolution.live/  The Evolution of COVID-19 - ITP Student Project
 * https://speakpatrice.substack.com/  Freelance journalist curating pandemic stories relevant to Africa and the African diaspora
 * https://pennlisteninglab.org/visit Listening to COVID-19
+
+### MEMORIALS, GRIEF AND MOURNING
