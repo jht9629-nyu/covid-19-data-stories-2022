@@ -10,8 +10,8 @@ Your final project  should
 * Be related to  populations that experienced disparate effects due to the pandemic
 
 #### SUBMITTING YOUR WORK
-Work must be submitted by midnight on the night before class. Submit to your folder on
-* [google drive](https://drive.google.com/drive/folders/1gud-8D7037vPalwWehOoDlcIpteUQpmH?usp=sharing)
+Create a folder  with your name in the class [GOOGLE DRIVE](https://drive.google.com/drive/folders/1gud-8D7037vPalwWehOoDlcIpteUQpmH?usp=sharing).  Homework must be submitted by midnight on the night before class. Submit homework to your folder on
+* [GOOGLE DRIVE](https://drive.google.com/drive/folders/1gud-8D7037vPalwWehOoDlcIpteUQpmH?usp=sharing)
 #### DUE WEEK 2: 
 Project ideas with documentation must be presented in class for feedback on Week 2.
 #### FINAL PROJECT IDEAS
