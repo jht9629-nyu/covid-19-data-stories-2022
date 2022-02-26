@@ -11,8 +11,7 @@ Your final project  should
 
 #### SUBMITTING YOUR WORK
 Work must be submitted by midnight on the night before class. Submit to your folder on
-* github
-* google drive
+* [google drive](https://drive.google.com/drive/folders/1gud-8D7037vPalwWehOoDlcIpteUQpmH?usp=sharing)
 #### DUE WEEK 2: 
 Project ideas with documentation must be presented in class for feedback on Week 2.
 #### FINAL PROJECT IDEAS
