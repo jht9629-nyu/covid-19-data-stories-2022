@@ -46,8 +46,7 @@ Students will be graded on
 [The COVID-19 Impact Project](https://covid19impactproject.com/)
 
 [The COVID-19 Impact Project Dashboard](https://epvisual.com/COVID-19-Impact/Dashboard/a0/)
-
-I hope you are enjoying the first few weeks of your classes! 
+ 
 
 ### ITP Resources
 The Coding Lab https://codinglab.itp.io/ and The Design Lab https://designlab.itp.io/  
@@ -57,3 +56,29 @@ These are peer-to-peer tutoring/mentoring/consulting groups that you can go for 
 Also, if you need shop help, you can meet with any of these knowledgeable shop people: Lulu, Aidan or Ben
 
 If you are in need of project documentation (photos, film, interviews, etc.), you can get in touch with the Documentation Lab: https://forms.gle/V2x4mecHPzUkEeaU7
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
