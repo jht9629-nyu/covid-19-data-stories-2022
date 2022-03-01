@@ -88,12 +88,39 @@ African American Photographs Assembled By W. E. B. DuBois for 1900 Paris Exposit
 * http://www.loc.gov/pictures/collection/anedub/item/00651763/
 
 ### HUMANIZING DATA
-https://covid19impactproject.com/2022/01/15/curating-covid-19-memorials/
+* [COVID-19 Impact Project Blog Post on Humanizing COVID-19 Data](https://covid19impactproject.com/2022/01/15/curating-covid-19-memorials/)
+
+* [Washington Post Article: Pandemic First Wave](https://www.washingtonpost.com/nation/2020/04/12/coronavirus-first-1000-deaths/?arc404=true)
 
 ### DATA LITERACY AND DATA VIZUALIZATION TOOLS
 * The Covid Tracking Project https://covidtracking.com/ 
 * https://www.tableau.com/academic/students Download and install Tableau. Get one year license for use (renewable)
 * p5*js [p5*js.org](https://p5js.org/)
+
+### SOME NOTES ON DATA LITERACY/EXTRACTING STORIES FROM DATA*
+Data is a set of numerical values described by qualitative and quantitative variables.
+Data visualizations (graphs, charts, maps and other creative visualizatoins) should:
+* Have a clear title and purpose
+* Provide insight into the data?
+* Make clear what the visualization represents
+* Make it's intention clear within moments
+* Reveal trends and patterns if they exist
+* Provide easy access to insights into the data
+
+In addition:
+* If outliers in the data exist they should be easy to spot
+* The completeness of the data should be explained
+* A data literate consumer should be able to spot whether the author deliberately excluded or hid relevant data
+
+In creating or examining visualizations ask: 
+* Can I answer all of my questions with what I see, or do I need more data?
+* ​Is it clear what has been measured, and what the numbers represent?
+* Has the author included helpful notes, labels, and navigational hints?
+* Can you gather useful and actionable data from this visualization?
+
+*Source: Tableau Online 
+
+
 
 ### DATA VISUALIZATION EXAMPLES
 COVID-19 
