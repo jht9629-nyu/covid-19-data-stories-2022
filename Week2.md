@@ -48,3 +48,18 @@ The Evolution of COVID-19 - ITP Student Project
 * https://pennlisteninglab.org/visit Listening to COVID-19
 
 ### MEMORIALS, GRIEF AND MOURNING
+* https://www.aidsmemorial.org/interactive-aids-quilt
+
+* NPR: https://apps.npr.org/memorial-interactive/
+
+* Memorials https://news.artnet.com/art-world/covid-19-memorials-1951143
+
+* MTA https://www.youtube.com/watch?v=mH5BuYgbSsQ&t=345s
+
+* Floral Hearts https://www.prnewswire.com/news-releases/the-floral-heart-project-to-lay-covid-19-memorials-in-nearly-100-locations-on-march-1st-301235845.html
+
+* Flags on National Mall (and other data viz) https://suzannefirstenberg.com/
+
+* Biden Memorial https://www.nytimes.com/live/2021/02/22/world/covid-19-coronavirus#here-is-how-covid-19s-toll-compares-with-other-causes-of-death-in-the-us
+
+* Poor People’s Campaign https://memorial.poorpeoplescampaign.org/
