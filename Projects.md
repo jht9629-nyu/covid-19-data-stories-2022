@@ -14,7 +14,9 @@ The project has several components and there are many ways that students can get
 2. Create articles for these pubs.
 3. Spread the word within the student community.
 
-#### **Memorial Ticker Installation in Jay Street windows**  [Click here to sign up]
+### Memorial Ticker Installation in Jay Street windows  
+
+[Click here to sign up]
 
 1. Ideate and implement a community facing and community engaging installation in the "Garage" window area. Installation will be centered around the COVID-19 Memorial Ticker currently on the ITP floor. This is a medium term project with weekly meetings.
 
