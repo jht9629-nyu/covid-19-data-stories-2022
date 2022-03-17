@@ -16,9 +16,8 @@ The project has several components and there are many ways that students can get
 
 #### **Memorial Ticker Installation in Jay Street windows**  [Click here to sign up]
 
+1. Ideate and implement a community facing and community engaging installation in the "Garage" window area. Installation will be centered around the COVID-19 Memorial Ticker currently on the ITP floor. This is a medium term project with weekly meetings.
 
-Develop and flush out ideas for a community facing and community engaging installation in the "Garage" window area. 
-Ideas include making that physical area (outdoors) more inviting to the community and building out an installation (indoors) that is interactive through the use of QR codes and other technologies. (weekly meetings until end of project)
 Community Voices: This is an interdisciplinary project that requires journalistic talent in addition to all the wonderful multidisciplinary talents of ITP students. 
 Develop and flush out ideas for a project that centers and amplifies the voices and pandemic stories of NYU essential workers.  Lots of ideas here including a "garage" installation. Some inspiration for this project I gathered from the "Penn Listening Lab" at Penn State University Hospital and storycorps.  We can envision and build out online and installation versions. Will involve data visualizations and extracting stories from data.
 Pandemic Color Line: This will tie in with John Henry's installations and explorations of W. E. B. Du Bois' statement on 'The Color Line' for NYU Black and Latin X community members. 
