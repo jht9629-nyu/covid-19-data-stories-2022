@@ -7,11 +7,13 @@ The project has several components and there are many ways that students can get
 ## How ITP and  IMA Students Can Get Involved
 
 ### PUBLICIZING THE PROJECT AT NYU
-#### **Monday March 21, 12:00 - 3:20**  [Click here to sign up](https://forms.gle/KdmQT2RtwL4uH2jZ8)
+#### **Monday March 21, 12:00 - 3:20**  
+[Click here to sign up](https://forms.gle/KdmQT2RtwL4uH2jZ8)
 1. Videotape class "Extracting Stories from Data.
 2. Edit and produce video for publicizing the project and for the "Cool Course Dispatch"
 
-#### **Newsletters:**  [Click here to sign up](https://forms.gle/KdmQT2RtwL4uH2jZ8)
+#### **Newsletters:**  
+[Click here to sign up](https://forms.gle/KdmQT2RtwL4uH2jZ8)
 
 1. Create a list of NYU newsletters to publicize the project (ex NYU Weekly, TSOA Bulletin)
 2. Create articles for these pubs.
