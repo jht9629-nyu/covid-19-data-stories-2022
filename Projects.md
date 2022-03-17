@@ -2,7 +2,7 @@
 ## NYU Student Involvement Opportunities
 Thank you for your interest in the COVID-19 Impact Project https://covid19impactproject.com/ This is an open sourced project focused on memorialization and grief related to the pandemic, data visualization and storytelling and the examination of statistics relative to our collective COVID-19 experience.  In all of these projects you will be working with  NYU faculty John Henry Thompson and Shindy Johnson.
 
-The project has several components and there are many ways that students can get involved.
+The project has several components and there are many ways that students can get involved.  If you have questions email Shindy Johnson at [smj2@nyu.edu](mailto:smj2@nyu.edu)
 
 ## How ITP and  IMA Students Can Get Involved
 
