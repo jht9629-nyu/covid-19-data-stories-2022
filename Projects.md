@@ -7,11 +7,11 @@ The project has several components and there are many ways that students can get
 ## How ITP and  IMA Students Can Get Involved
 
 ### PUBLICIZING THE PROJECT AT NYU
-#### **Monday March 21, 12:00 - 3:20**  [Click here to sign up]
+#### **Monday March 21, 12:00 - 3:20**  [Click here to sign up](https://forms.gle/KdmQT2RtwL4uH2jZ8)
 1. Videotape class "Extracting Stories from Data.
 2. Edit and produce video for publicizing the project and for the "Cool Course Dispatch"
 
-#### **Newsletters:**  [Click here to sign up]
+#### **Newsletters:**  [Click here to sign up](https://forms.gle/KdmQT2RtwL4uH2jZ8)
 
 1. Create a list of NYU newsletters to publicize the project (ex NYU Weekly, TSOA Bulletin)
 2. Create articles for these pubs.
@@ -19,12 +19,12 @@ The project has several components and there are many ways that students can get
 
 ### MEMORIAL TICKER INSTALLATION IN JAY STREET "GARAGE" WINDOWS
 
-[Click here to sign up]
+[Click here to sign up](https://forms.gle/KdmQT2RtwL4uH2jZ8)
 
 Ideate and implement a community facing and community engaging installation in the "Garage" window area. Installation will be centered around the COVID-19 Memorial Ticker currently on the ITP floor. This is a medium term project with weekly meetings.
 
 ### COMMUNITY VOICES 
-[Click here to sign up]
+[Click here to sign up](https://forms.gle/KdmQT2RtwL4uH2jZ8)
 
 This is an interdisciplinary project that requires journalistic talent in addition to the multidisciplinary talents of ITP students. 
 1. **NYU Essential Workers: COVID_19 Stories** This aspect of the project centers and amplifies the voices and pandemic stories of NYU essential workers.  Project includes a "garage" installation and an online version. Will involve journalism, data visualizations and extracting stories from data.
