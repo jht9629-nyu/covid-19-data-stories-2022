@@ -1,5 +1,5 @@
 # COVID-19 IMPACT PROJECT
-Thank you for your interest in the COVID-19 Impact Project https://covid19impactproject.com/  The goal of this project is to design a crowdsourced platform for the general public to contribute ideas, share personal stories, memorialize loved ones, and examine statistics relative to our collective COVID-19 experience.  
+Thank you for your interest in the COVID-19 Impact Project https://covid19impactproject.com/  The goal of this project is to design a crowdsourced platform for the general public to contribute ideas, share personal stories, memorialize loved ones, and examine statistics relative to our collective COVID-19 experience.  In all of these projects you will be working with  NYU faculty John Henry Thompson and Shindy Johnson
 
 The project has several components and there are many ways that students can get involved.
 
@@ -14,11 +14,11 @@ The project has several components and there are many ways that students can get
 2. Create articles for these pubs.
 3. Spread the word within the student community.
 
-### Memorial Ticker Installation in Jay Street windows  
+### MEMORIAL TICKER INSTALLATION IN JAY STREET "GARAGE" WINDOWS
 
 [Click here to sign up]
 
-1. Ideate and implement a community facing and community engaging installation in the "Garage" window area. Installation will be centered around the COVID-19 Memorial Ticker currently on the ITP floor. This is a medium term project with weekly meetings.
+Ideate and implement a community facing and community engaging installation in the "Garage" window area. Installation will be centered around the COVID-19 Memorial Ticker currently on the ITP floor. This is a medium term project with weekly meetings.
 
 Community Voices: This is an interdisciplinary project that requires journalistic talent in addition to all the wonderful multidisciplinary talents of ITP students. 
 Develop and flush out ideas for a project that centers and amplifies the voices and pandemic stories of NYU essential workers.  Lots of ideas here including a "garage" installation. Some inspiration for this project I gathered from the "Penn Listening Lab" at Penn State University Hospital and storycorps.  We can envision and build out online and installation versions. Will involve data visualizations and extracting stories from data.
